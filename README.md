@@ -41,5 +41,7 @@ Our analysis focuses primarily on school and student performance based on studen
 
 ## Resources
 Data Source: new_full_student_data.csv
+
 Folder: Student_Data_Challenge_Starter_Code (Solved)
+
 Software: Jupyter Notebook 
