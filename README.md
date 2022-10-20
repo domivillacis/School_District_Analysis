@@ -1,7 +1,6 @@
 # School District Analysis
 
 I was recently hired as a data analyst and I was asked to collaborate with Maria to analyse data on district and charter school student funding, student test scores, and showcase trends in school performance.
-
 To start this analysis, I used Jupyter Notebook, which is an application that allows its users to create and share documents that contain live code, among other functions.
 The main tasks of this analysis were to collect data, prepare data and analyse data that we received from a CSV file.
 
@@ -39,4 +38,5 @@ Our analysis focuses primarily on school and student performance based on studen
 
 ## Resources
 Data Source: new_full_student_data.csv
+
 Software: Jupyter Notebook 
